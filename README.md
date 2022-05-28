@@ -6,4 +6,5 @@ cd beenbibi
 
 ls
 
-python3 main.py
+python main.py
+//ถ้าเปิดไม่ได้ใช้คำสั่ง pip install discord
