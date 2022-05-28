@@ -10,3 +10,4 @@ python main.py
 //ถ้าเปิดไม่ได้ใช้คำสั่ง pip install discord
 
 pip install corolama
+
