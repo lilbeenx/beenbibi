@@ -233,15 +233,13 @@ class Clone:
 client = discord.Client()
 print(f"""{Fore.BLUE} 
 
-██╗░░░░░██╗░░░██╗██╗░░██╗███████╗
-██║░░░░░██║░░░██║╚██╗██╔╝╚════██║
-██║░░░░░██║░░░██║░╚███╔╝░░░███╔═╝
-██║░░░░░██║░░░██║░██╔██╗░██╔══╝░░
-███████╗╚██████╔╝██╔╝╚██╗███████╗
-╚══════╝░╚═════╝░╚═╝░░╚═╝╚══════╝
+▛▀▖▛▀▘▛▀▘▙ ▌▌ ▌▛▀▖▛▀▖
+▙▄▘▙▄ ▙▄ ▌▌▌▝▞ ▌ ▌▌ ▌
+▌ ▌▌  ▌  ▌▝▌▞▝▖▌ ▌▌ ▌
+▀▀ ▀▀▘▀▀▘▘ ▘▘ ▘▀▀ ▀▀
 
 {Style.RESET_ALL}
-{Fore.MAGENTA}Developed by: luxz#8403 {Style.RESET_ALL}
+{Fore.MAGENTA}_.beenxdd#4444 {Style.RESET_ALL}
         """)
 token = input(f'input your Token :\n >')
 guild_s = input('input server id:\n >')
